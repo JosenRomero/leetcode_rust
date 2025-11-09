@@ -1,2 +1,3 @@
 pub mod problem_58_length_of_last_word;
 pub mod problem_01_two_sum;
+pub mod problem_05_longest_palindromic_substring;
